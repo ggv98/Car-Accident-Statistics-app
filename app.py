@@ -271,7 +271,6 @@ image =Image.open("mvr-znak02.jpg")
 
 image = image.resize((int(width*0.5), int(height*0.7)))
 photo_image = ImageTk.PhotoImage(image)
-
 label = tkinter.Label(window, image = photo_image)
 label.pack()
 
