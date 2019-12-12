@@ -15,6 +15,7 @@ window.geometry("+0+0")
 
 
 
+
 def ByRegion():
         filename = 'ByMonth.csv'
         with open(filename, encoding="utf-8-sig") as f:
@@ -266,7 +267,11 @@ MyButton7 = tkinter.Button(window, text="2019 срещу 2018 Брой ране�
 MyButton7.pack()
 
 image =Image.open("mvr-znak02.jpg")
+
+
+image = image.resize((int(width*0.5), int(height*0.7)))
 photo_image = ImageTk.PhotoImage(image)
+
 label = tkinter.Label(window, image = photo_image)
 label.pack()
 
