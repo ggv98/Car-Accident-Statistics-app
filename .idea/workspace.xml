@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43d84b82-e4f0-474b-ae71-8340393f6815" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +82,25 @@
       <option name="presentableId" value="Default" />
       <updated>1575551635674</updated>
     </task>
+    <task id="LOCAL-00001" summary="change size">
+      <created>1576177329423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576177329423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change size" />
+    <option name="LAST_COMMIT_MESSAGE" value="change size" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="454" y="23" key="CommitChangelistDialog2" timestamp="1576177326497">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1576177326497" />
     <state width="1578" height="199" key="GridCell.Tab.0.bottom" timestamp="1576177238229">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
